@@ -1,0 +1,14 @@
+gradio
+crawl4ai
+requests
+beautifulsoup4
+spacy
+langdetect
+kaggle
+PyGithub
+scholarly
+textstat
+dateparser
+html2text
+tldextract
+phonenumbers
