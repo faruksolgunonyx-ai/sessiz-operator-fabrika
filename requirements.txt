@@ -1,9 +1,0 @@
-gradio
-crawl4ai
-google-generativeai
-gspread
-oauth2client
-python-dotenv
-email-validator
-requests
-beautifulsoup4
